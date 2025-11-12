@@ -12,5 +12,6 @@ public class Voting {
         else{
             System.out.println("It is not a eligible to votting");
         }
+        sk.close();
     }
 }
