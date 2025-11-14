@@ -24,5 +24,6 @@ public class Week {
                     break;
             default : System.out.println("Please enter the vaild number");                                    
         }
+        sk.close();
     }
 }
