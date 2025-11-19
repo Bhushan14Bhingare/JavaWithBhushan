@@ -18,5 +18,6 @@ public class MissingElement {
                 System.out.print(j+" ");
             }
         }
+        sc.close();
     }
 }
